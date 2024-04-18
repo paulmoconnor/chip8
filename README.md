@@ -1,1 +1,1 @@
-# nes-emulator
+# Chip-8 Emulator
